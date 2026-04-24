@@ -1,0 +1,54 @@
+{
+  "name": "inno-next-app-initializer",
+  "version": "1.0.0",
+  "description": "A CLI tool for quickly scaffolding Next.js applications with KO starter template - featuring authentication, theming, and professional UI components.",
+  "main": "index.js",
+  "bin": {
+    "create-inno-next-app": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Template already built\"",
+    "prepublishOnly": "echo \"Ready to publish\""
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwind",
+    "cli",
+    "scaffold",
+    "starter",
+    "template",
+    "authentication",
+    "dashboard",
+    "isw"
+  ],
+  "author": "Kelvin Orhungul <kelvin.orhungul@interswitch.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinorhungul/inno-next-app-initializer.git"
+  },
+  "homepage": "https://github.com/kelvinorhungul/inno-next-app-initializer#readme",
+  "bugs": {
+    "url": "https://github.com/kelvinorhungul/inno-next-app-initializer/issues"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "inquirer": "^8.2.6",
+    "fs-extra": "^11.1.1",
+    "ora": "^5.4.1",
+    "validate-npm-package-name": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "bin/",
+    "template/",
+    "scripts/",
+    "README.md"
+  ]
+}
