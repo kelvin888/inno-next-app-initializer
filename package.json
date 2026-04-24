@@ -28,11 +28,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kelvinorhungul/inno-next-app-initializer.git"
+    "url": "git+https://github.com/kelvin888/inno-next-app-initializer.git"
   },
-  "homepage": "https://github.com/kelvinorhungul/inno-next-app-initializer#readme",
+  "homepage": "https://github.com/kelvin888/inno-next-app-initializer#readme",
   "bugs": {
-    "url": "https://github.com/kelvinorhungul/inno-next-app-initializer/issues"
+    "url": "https://github.com/kelvin888/inno-next-app-initializer/issues"
   },
   "dependencies": {
     "chalk": "^4.1.2",
